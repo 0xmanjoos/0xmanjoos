@@ -1,1 +1,1 @@
-![Badge]("./images/icon.png")
+![Badge]("/images/icon.png")
