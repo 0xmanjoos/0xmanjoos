@@ -1,1 +1,1 @@
-![badge](./images/icon.png)
+![badge](./images/icon.jpg)
