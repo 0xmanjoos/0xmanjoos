@@ -1,2 +1,2 @@
 # Tryhackme Profile
-![badge](./images/icon.jpg)
+![badge](./images/icon.png)
