@@ -1,1 +1,1 @@
-![Badge]("https://tryhackme-badges.s3.amazonaws.com/jondoe.png")
+![Badge]("./images/icon.png")
