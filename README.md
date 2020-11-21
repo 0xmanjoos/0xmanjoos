@@ -1,2 +1,2 @@
 # Tryhackme Profile
-![badge](https://tryhackme-badges.s3.amazonaws.com/jondoe.png)
+![badge](./images/icon.jpg)
