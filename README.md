@@ -1,3 +1,1 @@
-### Hi there 👋
-
-i am dying
+![Badge]("https://tryhackme-badges.s3.amazonaws.com/jondoe.png")
