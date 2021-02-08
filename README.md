@@ -2,7 +2,7 @@
 
 ## am do thing sometimes
 
-![GENTOO](https://img.shields.io/badge/Manjaro%20-grey?style=for-the-badge&logo=Manjaro&logoColor=orange&labelColor=54487A)
+![manjaro](https://img.shields.io/badge/Manjaro%20-grey?style=for-the-badge&logo=Manjaro&logoColor=orange&labelColor=54487A)
 
 <a href="https://github.com/0xmanjoos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmanjoos&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
