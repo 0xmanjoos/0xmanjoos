@@ -1,8 +1,9 @@
 # manjoos
 
 ## am do thing sometimes
-
-![chika](https://media1.tenor.com/images/8fd57274c414726ae2179a8340bd100c/tenor.gif)
+<a>
+  <img align="center" src=https://media1.tenor.com/images/8fd57274c414726ae2179a8340bd100c/tenor.gif>
+</a>
 
 <details>
 <summary>⚡ Programming Languages ⚡</summary>
