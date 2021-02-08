@@ -24,24 +24,31 @@
 <details>
 <summary> ⚡ Waifu ⚡ </summary>
 <br>
-  \
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  megumin.
+<a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+megumin.
+</a>
 </details>
 
 #### Stats:
