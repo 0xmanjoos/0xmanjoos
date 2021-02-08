@@ -2,7 +2,6 @@
 
 ## am do thing sometimes
 ![PYTHON](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![CPP](https://img.shields.io/badge/-cpp-grey?style=for-the-badge&logo=cpp&logoColor=white&labelColor=3776AB)
 
 
 <a href="https://github.com/0xmanjoos">
