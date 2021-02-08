@@ -10,6 +10,7 @@
 ### Hackthebox
 [ ![hackthebox](https://www.hackthebox.eu/badge/image/361358)](https://www.hackthebox.eu/home/users/profile/361358)
 
+
 <details>
 <summary>⚡ Programming Languages ⚡</summary>
 <br>
@@ -43,6 +44,7 @@ Computer Science
 Malware Development
 </b>
 </details>
+
 
 #### Stats:
 <a href="https://github.com/0xmanjoos">
