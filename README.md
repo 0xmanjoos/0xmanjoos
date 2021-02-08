@@ -2,9 +2,9 @@
 
 ## am do thing sometimes
 
+### ⚡ Profiles ⚡
 <details>
-   <summary>⚡ Profiles ⚡</summary>
- <img src="https://tryhackme-badges.s3.amazonaws.com/jondoe.png" alt="TryHackMe">   
+ <img src="https://tryhackme-badges.s3.amazonaws.com/jondoe.png">
 </details>
 
 ![chika](https://media1.tenor.com/images/8fd57274c414726ae2179a8340bd100c/tenor.gif)
