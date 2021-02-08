@@ -22,10 +22,41 @@
 </details>
 
 <details>
-<summary></summary>
+<summary> ⚡ Waifu ⚡ </summary>
 <br>
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+megumin.
 </details>
 
 #### Stats:
