@@ -26,8 +26,11 @@
 <br>
 <b>
 Exploit Development
+  
 Reverse Engineering
+
 Computer Science
+
 Malware Development
 </b>
 </details>
