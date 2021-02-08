@@ -1,11 +1,10 @@
 # manjoos
 
 ## am do thing sometimes
-<a>
-  <img align="center" src=https://media1.tenor.com/images/8fd57274c414726ae2179a8340bd100c/tenor.gif>
-</a>
+
 
 <details>
+  <img align="center" src=https://media1.tenor.com/images/8fd57274c414726ae2179a8340bd100c/tenor.gif>
 <summary>⚡ Programming Languages ⚡</summary>
 <br>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
