@@ -1,6 +1,6 @@
-# am manjoos
+# manjoos
 
-# am do thing
+## am do thing sometimes
 
 ![](https://github-readme-stats.vercel.app/api?username=0xmanjoos&show_icons=true&theme=radical)
 
