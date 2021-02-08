@@ -1,6 +1,6 @@
 # manjoos
 
-## am do thing sometimes
+## am do thing sometimes ![chika](https://media1.tenor.com/images/8fd57274c414726ae2179a8340bd100c/tenor.gif)
 
 ### ⚡ Profiles ⚡
 
@@ -10,7 +10,6 @@
 ### Hackthebox
 [ ![hackthebox](https://www.hackthebox.eu/badge/image/361358)](https://www.hackthebox.eu/home/users/profile/361358)
 
-![chika](https://media1.tenor.com/images/8fd57274c414726ae2179a8340bd100c/tenor.gif)
 <details>
 <summary>⚡ Programming Languages ⚡</summary>
 <br>
