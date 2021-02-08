@@ -24,7 +24,7 @@
 <details>
 <summary> ⚡ Waifu ⚡ </summary>
 <br>
-
+  \
   
   
   
@@ -41,22 +41,7 @@
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-megumin.
+  megumin.
 </details>
 
 #### Stats:
