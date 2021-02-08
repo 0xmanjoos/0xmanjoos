@@ -27,8 +27,8 @@
 <details>
 <summary> ⚡ Preferred OS ⚡ </summary>
 <br>
-<img align="center" src="https://img.shields.io/badge/Manjaro%20-grey?style=for-the-badge&logo=Manjaro&logoColor=orange&labelColor=54487A">
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Manjaro%20-grey?style=for-the-badge&logo=Manjaro">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </details>
 
 <details>
