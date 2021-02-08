@@ -1,8 +1,6 @@
 # manjoos
 
-## am do thing sometimes
-
-![chika](https://media1.tenor.com/images/8fd57274c414726ae2179a8340bd100c/tenor.gif)
+![chika](https://media1.tenor.com/images/8fd57274c414726ae2179a8340bd100c/tenor.gif) ## am do thing sometimes
 
 ### ⚡ Profiles ⚡
 
