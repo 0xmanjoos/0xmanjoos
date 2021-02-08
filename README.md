@@ -1,6 +1,6 @@
 # manjoos
-
 ![chika](https://media1.tenor.com/images/8fd57274c414726ae2179a8340bd100c/tenor.gif)
+
 
 ### ⚡ Profiles ⚡
 
