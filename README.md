@@ -3,7 +3,8 @@
 ## am do thing sometimes
 
 ### ⚡ Profiles ⚡
-![tryhackme](https://tryhackme-badges.s3.amazonaws.com/jondoe.png)
+{{< image src="https://tryhackme.com/badge/140107" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
+
 
 ![chika](https://media1.tenor.com/images/8fd57274c414726ae2179a8340bd100c/tenor.gif)
 <details>
