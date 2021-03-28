@@ -10,7 +10,7 @@
 [ ![hackthebox](https://www.hackthebox.eu/badge/image/361358)](https://www.hackthebox.eu/home/users/profile/361358)
 
 <details>
-<summary>My thoughts on Exploit Development</summary>
+<summary>⚡ My thoughts on Exploit Development ⚡</summary>
 <br>
 <b>
 
