@@ -1,5 +1,3 @@
-![god](./icon/god.gif)
-
 ## ⚡ Showcase ⚡
 
 ### Heap Vulnerabilities
