@@ -1,6 +1,6 @@
 ![god](./icon/god.gif)
 
-## Showcase
+## ⚡ Showcase ⚡
 
 #### Heap Vulnerabilities
   - [ProtoStar 0](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/protostar/heap0)
@@ -24,11 +24,11 @@
 
 ## ⚡ Profiles ⚡
 
-### Tryhackme
+#### Tryhackme
 [ ![tryhackme](./icon/jondoe.png) ](https://tryhackme.com/p/jondoe)
 
 
-### Hackthebox
+#### Hackthebox
 [ ![hackthebox](https://www.hackthebox.eu/badge/image/361358)](https://www.hackthebox.eu/home/users/profile/361358)
 
 <details>
