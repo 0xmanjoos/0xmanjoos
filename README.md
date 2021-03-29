@@ -1,5 +1,27 @@
 ![god](./icon/god.gif)
 
+## Showcase
+
+### Heap Vulnerabilities
+  - [ProtoStar 0](./HEAP/protostar/heap0)
+  - [ProtoStar 1](./HEAP/protostar/heap1)
+  - [Basic UAF](./HEAP/UAF/BASIC)
+
+### Return Oriented Programming
+  - [ROP](./ROP)
+  
+### GOT/PLT
+  - [GOT/PLT Explanation](./fmt_bug/GOT-PLT)
+  - [Arbitrary Read](./fmt_bug/read)
+
+### NT Exploitation
+  - [freefloat_ftp](./freefloat_ftp)
+  - [Vulnserver TRUN](./vulnserver/TRUN)
+### Binary
+  - [two](./binary/two's_compliment)
+
+
+
 ### ⚡ Profiles ⚡
 
 ### Tryhackme
