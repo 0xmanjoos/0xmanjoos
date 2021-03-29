@@ -3,22 +3,22 @@
 ## Showcase
 
 ### Heap Vulnerabilities
-  - [ProtoStar 0](./HEAP/protostar/heap0)
-  - [ProtoStar 1](./HEAP/protostar/heap1)
-  - [Basic UAF](./HEAP/UAF/BASIC)
+  - [ProtoStar 0](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/protostar/heap0)
+  - [ProtoStar 1](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/protostar/heap1)
+  - [Basic UAF](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/UAF/BASIC)
 
 ### Return Oriented Programming
-  - [ROP](./ROP)
+  - [ROP](https://github.com/0xmanjoos/Exploit-Development/tree/main/ROP)
   
 ### GOT/PLT
-  - [GOT/PLT Explanation](./fmt_bug/GOT-PLT)
-  - [Arbitrary Read](./fmt_bug/read)
+  - [GOT/PLT Explanation](https://github.com/0xmanjoos/Exploit-Development/tree/main/fmt_bug/GOT-PLT)
+  - [Arbitrary Read](https://github.com/0xmanjoos/Exploit-Development/tree/main/fmt_bug/read)
 
 ### NT Exploitation
-  - [freefloat_ftp](./freefloat_ftp)
-  - [Vulnserver TRUN](./vulnserver/TRUN)
+  - [freefloat_ftp](https://github.com/0xmanjoos/Exploit-Development/tree/main/freefloat_ftp)
+  - [Vulnserver TRUN](https://github.com/0xmanjoos/Exploit-Development/tree/main/vulnserver/TRUN)
 ### Binary
-  - [two](./binary/two's_compliment)
+  - [two's_compliment](https://github.com/0xmanjoos/Exploit-Development/tree/main/binary/two's_compliment)
 
 
 
