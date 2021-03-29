@@ -1,6 +1,6 @@
 ![god](https://media1.tenor.com/images/bbd72681f518f79ad7e74edbf6f14379/tenor.gif?itemid=17454568)
 
-## ⚡ Showcase ⚡
+## Showcase
 
 ### Heap Vulnerabilities
   - [ProtoStar 0](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/protostar/heap0)
@@ -22,7 +22,7 @@
 
 
 
-## ⚡ Profiles ⚡
+## Profiles
 
 ### Tryhackme
 [ ![tryhackme](./icon/jondoe.png) ](https://tryhackme.com/p/jondoe)
@@ -32,7 +32,7 @@
 [ ![hackthebox](https://www.hackthebox.eu/badge/image/361358)](https://www.hackthebox.eu/home/users/profile/361358)
 
 <details>
-<summary>⚡ My thoughts on Exploit Development ⚡</summary>
+<summary>My thoughts on Exploit Development</summary>
 <br>
 <b>
 
@@ -133,7 +133,7 @@ EOF
 </details>
 
 <details>
-<summary>⚡ Programming Languages ⚡</summary>
+<summary>Programming Languages</summary>
 <br>
   
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -147,14 +147,14 @@ EOF
 </details>
 
 <details>
-<summary> ⚡ Preferred OS ⚡ </summary>
+<summary>Preferred OS </summary>
 <br>
 <img src="https://img.shields.io/badge/Manjaro%20-grey?style=for-the-badge&logo=Manjaro">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </details>
 
 <details>
-<summary>⚡ Interests ⚡</summary>
+<summary>Interests</summary>
 <br>
 <b>
   
