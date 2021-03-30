@@ -5,6 +5,7 @@
 ### Heap Vulnerabilities
   - [ProtoStar 0](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/protostar/heap0)
   - [ProtoStar 1](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/protostar/heap1)
+  - [ProtoStar 2](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/protostar/heap2)
   - [Basic UAF](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/UAF/BASIC)
 
 ### Return Oriented Programming
