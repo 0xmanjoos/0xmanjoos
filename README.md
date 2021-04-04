@@ -2,7 +2,7 @@
 
 ## Showcase
 ### Dynamic Memory Allocation
-  -[heap](https://github.com/0xmanjoos/Exploit-Development/blob/main/HEAP/dynamic_memory/README.md)
+  - [heap](https://github.com/0xmanjoos/Exploit-Development/blob/main/HEAP/dynamic_memory/README.md)
 
 ### Heap Vulnerabilities
   - [ProtoStar 0](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/protostar/heap0)
