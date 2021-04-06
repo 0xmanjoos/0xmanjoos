@@ -146,8 +146,17 @@ in the loop over the years will be able to catch up and learn these new techniqu
 just starting out in the field. The more mitigations, the higher the bar of entry becomes, and I think that this is a valid
 point.
 
-Another problem with memory corruption exploitation i hear getting tossed around is, 
+Another problem with memory corruption exploitation i hear getting tossed around is, "there will reach a point in time where
+zero day vulnerabilities are no longer worth it any more, where more human intelligence options become more worthwhile". 
+This is the dumbest thing i have ever heard in my life. Zerodays are essentially atomic bombs in the cyber space, that is like
+saying, "oh yea, one day hostile nation states like north korea will no longer create nuclear missiles because it costs too much".
 
+????????
+
+dumbest thing ive ever heard in my life, that is null and void. I 100 percent firmly believe in the fact that nation states will
+be willing to spend that kind of money for targeted attacks. "Human Intelligence" is going to get you nowhere if you are attacking
+a high profile target. Man its like saying, yo you got ur 0day?, nah man i didnt buy it, too costly. Lets just shoot bill gates an
+email asking him to click a link eh?, OH GREAT IDEA, WONDERFUL IDEA YOURE THE BRIGHTEST MIND OF THE 20th CENTURY!
 
 3. Last and final reason, this one is the most important out of ALL OF THESE
 it is fun, it is just plain and simple fun. I am having the most fun freaking out over some strange
