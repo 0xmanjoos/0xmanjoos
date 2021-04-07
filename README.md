@@ -29,7 +29,7 @@
 ## Profiles
 
 ### Pwnable.tw
-[![pwnable.tw](./path/to/profile)](https://pwnable.tw/user/28923)
+[![pwnable.tw](https://www.gravatar.com/avatar/41bde45d800f779cd439358d164097cf?size=120&d=mp)](https://pwnable.tw/user/28923)
 
 
 ### Tryhackme
