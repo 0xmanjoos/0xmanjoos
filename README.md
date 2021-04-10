@@ -1,6 +1,9 @@
 ![god](https://media1.tenor.com/images/bbd72681f518f79ad7e74edbf6f14379/tenor.gif?itemid=17454568)
 
 ## Showcase
+### Fastpwn
+  - [fastpwn](https://github.com/0xmanjoos/Exploit-Development/tree/main/fastpwn)
+
 ### Dynamic Memory Allocation
   - [heap](https://github.com/0xmanjoos/Exploit-Development/blob/main/HEAP/dynamic_memory/README.md)
 
