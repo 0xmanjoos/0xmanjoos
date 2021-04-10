@@ -13,6 +13,7 @@
 ### ret2..
   - [Return Oriented Programming](https://github.com/0xmanjoos/Exploit-Development/tree/main/ret2/ROP)
   - [Return to PLT](https://github.com/0xmanjoos/Exploit-Development/tree/main/ret2/ret2plt)
+  - [Return to __dl_resolve_runtime](https://github.com/0xmanjoos/Exploit-Development/tree/main/ret2/ret2dl_resolve)
 
 ### GOT/PLT
   - [GOT/PLT Explanation](https://github.com/0xmanjoos/Exploit-Development/tree/main/fmt_bug/GOT-PLT)
