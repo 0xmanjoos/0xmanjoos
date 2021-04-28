@@ -1,39 +1,9 @@
 ![god](https://media1.tenor.com/images/bbd72681f518f79ad7e74edbf6f14379/tenor.gif?itemid=17454568)
 
-## Showcase
-### Year of Pwn
-  - [annum_of_pwn](https://github.com/0xmanjoos/Exploit-Development/tree/main/annum_of_pwn)
-
-### Dynamic Memory Allocation
-  - [heap](https://github.com/0xmanjoos/Exploit-Development/blob/main/HEAP/dynamic_memory/README.md)
-
-### Heap Vulnerabilities
-  - [ProtoStar 0](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/protostar/heap0)
-  - [ProtoStar 1](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/protostar/heap1)
-  - [ProtoStar 2](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/protostar/heap2)
-  - [Basic UAF](https://github.com/0xmanjoos/Exploit-Development/tree/main/HEAP/UAF/BASIC)
-
-### ret2..
-  - [Return Oriented Programming](https://github.com/0xmanjoos/Exploit-Development/tree/main/ret2/ROP)
-  - [Return to PLT](https://github.com/0xmanjoos/Exploit-Development/tree/main/ret2/ret2plt)
-  - [Return to __dl_runtime_resolve](https://github.com/0xmanjoos/Exploit-Development/tree/main/ret2/ret2dl_resolve)
-
-### GOT/PLT
-  - [GOT/PLT Explanation](https://github.com/0xmanjoos/Exploit-Development/tree/main/fmt_bug/GOT-PLT)
-  - [Arbitrary Read](https://github.com/0xmanjoos/Exploit-Development/tree/main/fmt_bug/read)
-
-### NT Exploitation
-  - [freefloat_ftp](https://github.com/0xmanjoos/Exploit-Development/tree/main/freefloat_ftp)
-  - [Vulnserver TRUN](https://github.com/0xmanjoos/Exploit-Development/tree/main/vulnserver/TRUN)
- 
-### Binary
-  - [two's_compliment](https://github.com/0xmanjoos/Exploit-Development/tree/main/binary/two's_compliment)
-  - [babyrev](https://github.com/0xmanjoos/Exploit-Development/blob/main/ctf/foobarCTF/rev/babyrev/README.md)
- 
-### Fastpwn
-  - [fastpwn](https://github.com/0xmanjoos/Exploit-Development/tree/main/fastpwn)
-
 ## Profiles
+
+## personal site
+https://0xmanjoos.github.io
 
 ### Pwnable.tw
 [![pwnable.tw](https://www.gravatar.com/avatar/41bde45d800f779cd439358d164097cf?size=120&d=mp)](https://pwnable.tw/user/28923)
